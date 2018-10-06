@@ -1,0 +1,1 @@
+msbuild Fannypack/Fannypack.csproj /t:pack /p:Configuration=Release

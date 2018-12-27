@@ -2,9 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>0.0.1</Version>
-    <Authors>joe@lariat.io</Authors>
-    <Company>Lariat Analytics</Company>
+    <Version>0.0.7</Version>
+    <Authors>@jltrem</Authors>
+    <Company>@jltrem</Company>
+    <AssemblyVersion>0.0.7.0</AssemblyVersion>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
